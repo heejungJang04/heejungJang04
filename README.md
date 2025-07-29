@@ -6,11 +6,13 @@
 🎨 **Figma로 UI 구성**을 시도해보며 사용자의 흐름을 설계해봤고 **좋은 인터페이스란 무엇일까**를 자주 고민합니다. 작은 버튼 하나에도 의미를 담고 싶습니다.  사람들을 직접 움직이게 설계합니다.
 
 
+
 ## Education & Experience
 - **상명대학교** [휴먼AI공학전공](https://hi.smu.ac.kr/hi/index.do) **3학년** 재학 (2023.03 ~ 현재)
 - **상명대학교**  [휴먼AI공학전공](https://hi.smu.ac.kr/hi/index.do) ****학생회 [hunity](https://www.instagram.com/smu_hunity?igsh=NjhrcnRoc3NxaHF6) 기획부 (2023.03 ~ 2024.03)
 - **상명대학교 과학술동아리** [Bamboo](https://smu-bamboo.com/)  **운영진과 프론트엔드** (2024.03 ~ 현재)
 - **상명대학교 [University Makeus Challenge (UMC)](https://www.makeus.in/umc) 8**기 **Web** **challenger**(2024.03~)
+
 
   
 ## Tech Stacks
@@ -26,14 +28,23 @@
 - Git, GitHub
 - Figma
  
+
       
   
 ## Study
-표 형식으로 첨부 ..
+| 스터디명 |  활동 기간  | 활동 내용 | 링크
+|------------|------|-----------|----------------|
+| Java Study | 2024.3~2024.5 | 웹 개발 이전에 자바와 자바스크립트 언어의 기초부터 먼저 학습하며 프로그래밍 기반을 마련 | (https://www.notion.so/Java-Script-Study-61307888880240b09ceb4f3deb48549d)) |
+| Web Study | 2024.5~2024.8 |  이후 HTML, CSS 학습을 통해 연습용으로 웹 페이지를 직접 구현해보았고 Git과 GitHub를 활용한 협업 방식 익힘 | (https://www.notion.so/2-cf6ba67f9de349a691a0b1cff70fb31d) |
+| Bamboo 5기 | 2024.6~ | 현재 데이터분석, 머신러닝에 이어 현재 딥러닝 스터디 중 | ) |
+
+
+
 
 ## Project
 (개발자로써 프로젝트 경험이 부족하나 UMC를 통해 팀프로젝트를 진행하며 협업경험을 쌓고있습니다. 열정과 성실함으로 임하겠습니다. )
-"
+
+
 
 ## Contact
 - **Email |** heejung__8114@naver.com
