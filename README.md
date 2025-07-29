@@ -19,19 +19,20 @@
 
   
 ## Tech Stacks
-
-
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
- <img src="https://img.shields.io/badge/java-4B4B77?style=flat&logo=java&logoColor=white" />
- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-4B4B77?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS&logoColor=white" />
-    <br/>
+   <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-    <img src="https://img.shields.io/badge/typescript-007AAC?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/vite-F16728?style=flat&logo=vite&logoColor=white" />
-         <img src="https://img.shields.io/badge/axios-DF0000?style=flat&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-007AAC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/vite-F16728?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/axios-DF0000?style=flat&logo=axios&logoColor=white" />
+</p>
+
 
 
       
