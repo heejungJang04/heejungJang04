@@ -9,7 +9,7 @@
 
 <br><br> 
 
-## Education
+## 🎓 Education
 - **상명대학교** [휴먼AI공학전공](https://hi.smu.ac.kr/hi/index.do) **3학년** 재학 (2023.03 ~ 현재)
 - **상명대학교**  [휴먼AI공학전공](https://hi.smu.ac.kr/hi/index.do) ****학생회 [hunity](https://www.instagram.com/smu_hunity?igsh=NjhrcnRoc3NxaHF6) 기획부 (2023.03 ~ 2024.03)
 
@@ -18,7 +18,7 @@
 <br><br> 
 
   
-## Tech Stacks
+## 🛠️ Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/java-4B4B77?style=flat&logo=java&logoColor=white" />
@@ -37,7 +37,7 @@
 <br><br>
       
   
-## Activitys
+## 🧑‍💻 Activitys
 | **활동** |  **활동 기간**  | **활동 내용** | 
 |---------------|------|-----------|
 | Java Study | 2024.3~2024.5 | 웹 개발 이전에 자바와 자바스크립트 언어의 기초부터 먼저 학습하며 프로그래밍 기반을 마련 | 
@@ -48,7 +48,7 @@
 
 
 
-## Project
+## 🫂 Project
 | **프로젝트명** |  **설명**  | **기간** |
 |------------|----------|--------|
 | **SMP** | 2024.3~ 2024.6 | SMP는 사용자의 위치 기반으로 지역 정보를 공유하고 실시간 채팅을 통해 소통할 수 있는 커뮤니티 플랫폼입니다. |
@@ -56,6 +56,7 @@
 
 
 
-## Contact
-- **Email |** heejung__8114@naver.com
-- 010-9737-8114
+## 📬 Contact
+- <img src="https://img.shields.io/badge/heejung__8114@naver.com-DF0000?style=flat&logo=gmail&logoColor=white" />](mailto:heejung__8114@naver.com)
+- <img src="https://img.shields.io/badge/Instagram-ffffff?style=flat&logo=instagram&logoColor=E4405F" />](https://www.instagram.com/heejeong.j/)
+
