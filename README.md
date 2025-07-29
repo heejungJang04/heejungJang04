@@ -14,17 +14,18 @@
 - **상명대학교**  [휴먼AI공학전공](https://hi.smu.ac.kr/hi/index.do) ****학생회 [hunity](https://www.instagram.com/smu_hunity?igsh=NjhrcnRoc3NxaHF6) 기획부 (2023.03 ~ 2024.03)
 
 
-- **상명대학교 과학술동아리** [Bamboo](https://smu-bamboo.com/)  **운영진과 프론트엔드** (2024.03 ~ 현재)
-- **상명대학교 [University Makeus Challenge (UMC)](https://www.makeus.in/umc) 8**기 **Web** **challenger**(2024.03~)
 
 
 
   
 ## Tech Stacks
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+
+
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+   <img src="https://img.shields.io/badge/java-4B4B77?style=flat&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/{보여질 이름}-{색상 - #뺴고}?style=flat&logo={아이콘 이름}&logoColor=white" />
 
 
       
@@ -34,7 +35,7 @@
 |---------------|------|-----------|----------------|
 | Java Study | 2024.3~2024.5 | 웹 개발 이전에 자바와 자바스크립트 언어의 기초부터 먼저 학습하며 프로그래밍 기반을 마련 | 
 | UMC 8기 | 2024.3~2024.8 | 웹 개발에 대한 전반적인 학습 복습 후 첫 프로젝트 진행, 이어서 다른 프로젝트로 확장  |
-| Bamboo 5기 | 2024.6~ |  데이터분석, 머신러닝에 이어 현재 딥러닝 스터디 중 |  
+| Bamboo 5기 운영진 | 2024.6~ |  데이터분석, 머신러닝에 이어 현재 딥러닝 스터디 중 |  
 
 
 | Java Study | 2024.3~2024.5 | 웹 개발 이전에 자바와 자바스크립트 언어의 기초부터 먼저 학습하며 프로그래밍 기반을 마련 | (https://www.notion.so/Java-Script-Study-61307888880240b09ceb4f3deb48549d)) |
