@@ -57,6 +57,7 @@
 
 
 ## 📬 Contact
-- <img src="https://img.shields.io/badge/heejung__8114@naver.com-DF0000?style=flat&logo=gmail&logoColor=white" />](mailto:heejung__8114@naver.com)
-- <img src="https://img.shields.io/badge/Instagram-ffffff?style=flat&logo=instagram&logoColor=E4405F" />](https://www.instagram.com/heejeong.j/)
+- [<img src="https://img.shields.io/badge/heejung__8114@naver.com-DF0000?style=flat&logo=gmail&logoColor=white" />](mailto:heejung__8114@naver.com)
+- [<img src="https://img.shields.io/badge/Instagram-ffffff?style=flat&logo=instagram&logoColor=E4405F" />](https://www.instagram.com/heejeong.j/)
+
 
